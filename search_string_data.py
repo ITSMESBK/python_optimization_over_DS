@@ -11,7 +11,7 @@
 import sys,os
 
 # Add Path in machine bash profile 
-sys.path.append('C:/Users/kamal/Documents/sbk_repositories/python_utility/')# sys.path is a list of absolute path strings
+sys.path.append('')# sys.path is a list of absolute path strings
 
 # IN-HOUSE PACKAGES 
 from constants import *
